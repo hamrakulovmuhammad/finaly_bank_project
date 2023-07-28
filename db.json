@@ -68,7 +68,7 @@
       "date": "2023-07-28",
       "name": "ovjufn",
       "currency": "AFN",
-      "balance": "200"
+      "balance": 0
     }
   ],
   "transactions": [
@@ -199,6 +199,118 @@
       "total": 150,
       "category": "home",
       "wallet_id": "b1222f03-4605-4684-93f9-1e394fc4ca3d"
+    },
+    {
+      "id": "50ac5fce-8b14-410f-a077-2c391ed721c8",
+      "user_id": "7bc42145-5b7e-42bc-98ab-fb569e346606",
+      "date": "2023-07-28",
+      "wallet": {
+        "id": "65e9ddd7-717b-47b4-a4bc-5fc0a03d37ab",
+        "user_id": "7bc42145-5b7e-42bc-98ab-fb569e346606",
+        "date": "2023-07-28",
+        "name": "ovjufn",
+        "currency": "AFN",
+        "balance": "200"
+      },
+      "total": 50,
+      "category": "ремонт лица",
+      "wallet_id": "65e9ddd7-717b-47b4-a4bc-5fc0a03d37ab"
+    },
+    {
+      "id": "84f8f21b-2096-4dfb-99b2-412be6d16c41",
+      "user_id": "7bc42145-5b7e-42bc-98ab-fb569e346606",
+      "date": "2023-07-28",
+      "wallet": {
+        "id": "65e9ddd7-717b-47b4-a4bc-5fc0a03d37ab",
+        "user_id": "7bc42145-5b7e-42bc-98ab-fb569e346606",
+        "date": "2023-07-28",
+        "name": "ovjufn",
+        "currency": "AFN",
+        "balance": 150
+      },
+      "total": 50,
+      "category": "на машину",
+      "wallet_id": "65e9ddd7-717b-47b4-a4bc-5fc0a03d37ab"
+    },
+    {
+      "id": "f34266d4-df36-43a9-9afa-cd66b49497b7",
+      "user_id": "7bc42145-5b7e-42bc-98ab-fb569e346606",
+      "date": "2023-07-28",
+      "wallet": {
+        "id": "65e9ddd7-717b-47b4-a4bc-5fc0a03d37ab",
+        "user_id": "7bc42145-5b7e-42bc-98ab-fb569e346606",
+        "date": "2023-07-28",
+        "name": "ovjufn",
+        "currency": "AFN",
+        "balance": 100
+      },
+      "total": 80,
+      "category": "на ноутбук ",
+      "wallet_id": "65e9ddd7-717b-47b4-a4bc-5fc0a03d37ab"
+    },
+    {
+      "id": "7a789f17-d324-4324-826c-ebe23baee6e2",
+      "user_id": "7bc42145-5b7e-42bc-98ab-fb569e346606",
+      "date": "2023-07-28",
+      "wallet": {
+        "id": "65e9ddd7-717b-47b4-a4bc-5fc0a03d37ab",
+        "user_id": "7bc42145-5b7e-42bc-98ab-fb569e346606",
+        "date": "2023-07-28",
+        "name": "ovjufn",
+        "currency": "AFN",
+        "balance": 20
+      },
+      "total": 5,
+      "category": "на еду",
+      "wallet_id": "65e9ddd7-717b-47b4-a4bc-5fc0a03d37ab"
+    },
+    {
+      "id": "88462014-a322-4cbf-964a-9eaef928105b",
+      "user_id": "7bc42145-5b7e-42bc-98ab-fb569e346606",
+      "date": "2023-07-28",
+      "wallet": {
+        "id": "65e9ddd7-717b-47b4-a4bc-5fc0a03d37ab",
+        "user_id": "7bc42145-5b7e-42bc-98ab-fb569e346606",
+        "date": "2023-07-28",
+        "name": "ovjufn",
+        "currency": "AFN",
+        "balance": 15
+      },
+      "total": 6,
+      "category": "на обув ",
+      "wallet_id": "65e9ddd7-717b-47b4-a4bc-5fc0a03d37ab"
+    },
+    {
+      "id": "3f1b182d-109c-4b92-9f0c-936278bfa433",
+      "user_id": "7bc42145-5b7e-42bc-98ab-fb569e346606",
+      "date": "2023-07-28",
+      "wallet": {
+        "id": "65e9ddd7-717b-47b4-a4bc-5fc0a03d37ab",
+        "user_id": "7bc42145-5b7e-42bc-98ab-fb569e346606",
+        "date": "2023-07-28",
+        "name": "ovjufn",
+        "currency": "AFN",
+        "balance": 9
+      },
+      "total": 7,
+      "category": "на квартиру",
+      "wallet_id": "65e9ddd7-717b-47b4-a4bc-5fc0a03d37ab"
+    },
+    {
+      "id": "bc1aace2-6a06-481d-8c47-858eec7cad9b",
+      "user_id": "7bc42145-5b7e-42bc-98ab-fb569e346606",
+      "date": "2023-07-28",
+      "wallet": {
+        "id": "65e9ddd7-717b-47b4-a4bc-5fc0a03d37ab",
+        "user_id": "7bc42145-5b7e-42bc-98ab-fb569e346606",
+        "date": "2023-07-28",
+        "name": "ovjufn",
+        "currency": "AFN",
+        "balance": 2
+      },
+      "total": 2,
+      "category": "на тебя",
+      "wallet_id": "65e9ddd7-717b-47b4-a4bc-5fc0a03d37ab"
     }
   ]
 }
